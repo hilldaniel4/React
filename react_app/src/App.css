@@ -36,9 +36,9 @@
     transform: rotate(360deg);
   }  
 }
-.card{
-  display:inline-flex;
-  width: 30%;
+.card.display-3.cards{
+  display:inline-block;
+  width: 33%;
 }
 .dropdown{
   margin:5%;
